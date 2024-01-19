@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Template for OpenGL laborator 10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(105,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(155,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(156,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(160,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(161,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(162,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(163,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(563,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\main.cpp(606,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL Project - Sabău Oana-Maria.vcxproj -> C:\Users\oana\source\repos\OpenGL Project - Sabău Oana-Maria\x64\Debug\OpenGL Project - Sabău Oana-Maria.exe
